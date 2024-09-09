@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Arrays de contadores\Arrays de contadores\obj\Debug\Arrays de contadores.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Arrays de contadores\Arrays de contadores\obj\Debug\Arrays de contadores.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Arrays de contadores\Arrays de contadores\bin\Debug\Arrays de contadores.exe.config
+C:\Users\Hp\source\repos\Arrays de contadores\Arrays de contadores\bin\Debug\Arrays de contadores.exe
+C:\Users\Hp\source\repos\Arrays de contadores\Arrays de contadores\bin\Debug\Arrays de contadores.pdb
+C:\Users\Hp\source\repos\Arrays de contadores\Arrays de contadores\obj\Debug\Arrays de contadores.exe
+C:\Users\Hp\source\repos\Arrays de contadores\Arrays de contadores\obj\Debug\Arrays de contadores.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Arrays unidimensional\Arrays unidimensional\bin\Debug\Arrays unidimensional.exe.config
+C:\Users\Hp\source\repos\Arrays unidimensional\Arrays unidimensional\bin\Debug\Arrays unidimensional.exe
+C:\Users\Hp\source\repos\Arrays unidimensional\Arrays unidimensional\bin\Debug\Arrays unidimensional.pdb
+C:\Users\Hp\source\repos\Arrays unidimensional\Arrays unidimensional\obj\Debug\Arrays unidimensional.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Arrays unidimensional\Arrays unidimensional\obj\Debug\Arrays unidimensional.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Arrays unidimensional\Arrays unidimensional\obj\Debug\Arrays unidimensional.exe
+C:\Users\Hp\source\repos\Arrays unidimensional\Arrays unidimensional\obj\Debug\Arrays unidimensional.pdb

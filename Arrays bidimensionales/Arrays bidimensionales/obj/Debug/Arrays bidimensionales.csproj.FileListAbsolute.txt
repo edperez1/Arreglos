@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\Arrays bidimensionales\Arrays bidimensionales\bin\Debug\Arrays bidimensionales.exe.config
+C:\Users\Hp\source\repos\Arrays bidimensionales\Arrays bidimensionales\bin\Debug\Arrays bidimensionales.exe
+C:\Users\Hp\source\repos\Arrays bidimensionales\Arrays bidimensionales\bin\Debug\Arrays bidimensionales.pdb
+C:\Users\Hp\source\repos\Arrays bidimensionales\Arrays bidimensionales\obj\Debug\Arrays bidimensionales.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Arrays bidimensionales\Arrays bidimensionales\obj\Debug\Arrays bidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Arrays bidimensionales\Arrays bidimensionales\obj\Debug\Arrays bidimensionales.exe
+C:\Users\Hp\source\repos\Arrays bidimensionales\Arrays bidimensionales\obj\Debug\Arrays bidimensionales.pdb

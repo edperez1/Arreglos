@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\Arrays de contadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F761C2D4-D6D6-4808-8C20-C4E76DD57F17}|Arrays de contadores\\Arrays de contadores.csproj|c:\\users\\hp\\source\\repos\\arrays de contadores\\arrays de contadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F761C2D4-D6D6-4808-8C20-C4E76DD57F17}|Arrays de contadores\\Arrays de contadores.csproj|solutionrelative:arrays de contadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\Arrays de contadores\\Arrays de contadores\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays de contadores\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\Arrays de contadores\\Arrays de contadores\\Program.cs",
+              "RelativeToolTip": "Arrays de contadores\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:49:23.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
